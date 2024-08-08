@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>COUSINSCumpleaños</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box" id="box1">
+            <img src="foto_ana.jpg" alt="Foto de Persona 1">
+        </div>
+        <div class="box" id="box2">
+            <img src="foto_nerea.jpg" alt="Foto de Persona 2">
+        </div>
+        <div class="box" id="box3">
+            <img src="foto_alex.jpg" alt="Foto de Persona 3">
+        </div>
+        <div class="box" id="box4">
+            <img src="foto_marta.jpg" alt="Foto de Persona 4">
+        </div>
+        <div class="box" id="box5">
+            <img src="foto_nacho.jpg" alt="Foto de Persona 5">
+        </div>
+        <div class="box" id="box6">
+            <img src="foto_alfon.jpg" alt="Foto de Persona 6">
+        </div>
+        <div class="box" id="box7">
+            <img src="foto_guille.jpg" alt="Foto de Persona 7">
+        </div>
+        <div class="box" id="box8">
+            <img src="foto_patri.jpg" alt="Foto de Persona 8">
+        </div>
+    </div>
+
+    <div id="passwordPrompt" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Introduce la contraseña:</p>
+            <input type="password" id="passwordInput">
+            <button id="submitPassword">Enviar</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
