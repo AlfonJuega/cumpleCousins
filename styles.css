@@ -115,7 +115,7 @@ body {
 video {
     max-width: 180%; /* Ajusta el ancho máximo del video */
     max-height: 180vh; /* Ajusta la altura máxima del video */
-    width: 218000%; /* Ancho del video, puede cambiarse a un valor fijo si prefieres */
+    width: 80%; /* Ancho del video, puede cambiarse a un valor fijo si prefieres */
     height: auto; /* Mantiene la relación de aspecto del video */
 }
 

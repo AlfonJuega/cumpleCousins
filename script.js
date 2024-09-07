@@ -6,14 +6,14 @@ document.addEventListener('DOMContentLoaded', function () {
     const passwordInput = document.getElementById('passwordInput');
 
     const passwords = {
-        box1: 'COUSINS-AB-98',
-        box2: 'COUSINS-NV-02',
-        box3: 'COUSINS-AE-97',
-        box4: 'COUSINS-MC-96',
-        box5: 'COUSINS-NJ-04',
-        box6: 'COUSINS-AJ-00',
-        box7: 'COUSINS-GP-02',
-        box8: 'COUSINS-PE-02'
+        box1: 'ABVAGUNNO-234',
+        box2: 'NVSSEDCCD-251',
+        box3: 'AEJSEUNN-262',
+        box4: 'MCXENUNNS-03',
+        box5: 'NJDFEDCCC-60',
+        box6: 'AJDMADCCC-79',
+        box7: 'GPJABDCCD-95',
+        box8: 'PEJJUDCCD-158'
     };
 
     boxes.forEach(box => {
