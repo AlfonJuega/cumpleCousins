@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const passwords = {
         box1: 'ABVAGUNNO-234',
         box2: 'NVSSEDCCD-251',
-        box3: 'AEJSEUNNO-262',
+        box3: 'AEJSEUNNS-262',
         box4: 'MCXENUNNS-03',
         box5: 'NJDFEDCCC-60',
         box6: 'AJDMADCCC-79',
